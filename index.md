@@ -12,7 +12,7 @@ subtitle: Welcome to my personal website
 
 <p align="center">
   <img src="/assets/img/IMG_1841.JPG" style="width:50%; height=50%; border:1px solid">
+  <figcaption>This is my dog, Simba.</figcaption>
 </p>
 
 
-<p> This is my dog, Simba. </p>
