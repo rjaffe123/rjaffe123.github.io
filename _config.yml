@@ -16,6 +16,7 @@ navbar-links:
   Projects:
     - My Git Hub: "https://github.com/rjaffe123"
     - Datafest 2020: "https://rjaffe123.shinyapps.io/shiny_map_attempt/"
+  Water Polo: "waterpolo"
   Contact: "contact"
 
 # --- Logo --- #
