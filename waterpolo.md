@@ -1,3 +1,8 @@
+---
+layout: page
+title: Waterpolo
+---
+
 I have been playing water polo since I was in 8th grade, and since then have gone on to play in university (#BleedBlue) as well as on the international scale (go Canada go!). 
 
 <img src="IMG_7452.jpg" style="width:50%; border:5px solid; margin-right: 20px" align="center">
