@@ -11,3 +11,5 @@ subtitle: Welcome to my personal website
 <p>Currently, I am a research assistant at the Dalla Lana School of Public Health and have been volunteering at St. Michael's Hospital doing statistical data analysis. </p> 
 
 <img src="/assets/img/IMG_1841.JPG" style="width:50%; height=50%; border:1px solid" class="center">
+
+<p> This is my dog, Simba. </p>
