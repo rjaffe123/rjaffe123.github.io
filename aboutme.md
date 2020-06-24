@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume]("resumepdf.pdf")
+[Download this resume](resumepdf.pdf)
 
 Summary of Qualifications
 -------------------------
