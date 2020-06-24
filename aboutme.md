@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resume
-subtitle: [PDF version]("resumepdf.pdf")
 ---
+[Download this resume]("resumepdf.pdf")
 
 Summary of Qualifications
 -------------------------
