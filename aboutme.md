@@ -2,12 +2,7 @@
 layout: page
 title: Resume
 ---
-    
-Toronto, ON, Canada / Irvine, CA, USA
--------------------------------------
-647 646 7445 / 949 769 9445
----------------------------   
-
+      
 Education
 ---------
 
