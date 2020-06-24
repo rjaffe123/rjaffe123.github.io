@@ -2,7 +2,14 @@
 layout: page
 title: Resume
 ---
-      
+
+Summary of Qualifications
+-------------------------
+* Research experience in spatial and clinical epidemiology.
+* Proficient in Microsoft Office, Python, and R, ArcGIS
+* Team player, dedicated, and driven
+* 10+ years of playing a competitive sport
+
 Education
 ---------
 
@@ -11,73 +18,59 @@ Education
     Toronto (Ontario, Canada)
 
     *Minor: Statistics, Economics*
-
+    
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Research Assistant, Sept 2019 - current:**
+*Dalla Lana School of Public Health, Toronto, ON*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Currently performing research in spatial epidemiology examining greenness accessibility and distribution within Ontario
 
-* First item
+* Performing data analysis with Python, R, ArcGIS, SPSS
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Research Assistant, May 2020 - current:**
+*St. Michael's Hospital, Toronto, ON*
 
-**That Other Job You Had**
+* Currently performing research in clinical epidemiology examining different cohorts of patients with spinal chord injuries
 
-Also with a short description.
+* Performing data analysis with R, SAS
+
+* Using statistical analysis techniques such as linear mixed modeling
+
+**Business Analyst, Sept 2019 - Jan 2020:**
+*iMerciv, Toronto, ON*
+
+* Created an interview script to interview over 200 people to determine a minimum viable market for their developing navigational app
+
+* Developed marketing strategies for Instagram, Twitter, Facebook.
+
+**Peer Mentor, Sept 2018 - current:**
+*Department of Statistical Sciences, Toronto, ON*
+
+* Mentored first year students who intend to study statistics to help them succeed in a new academic environment.
+
+* Organized at least 1 social event per semester and connected students with resources to aid them
+in their transition to Toronto.
+
+* Currently aiding the new team of mentors on their transition to an online platform.
+
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **R:** including ShinyApps, creating this website, and well versed in data cleaning with Tidyverse
+:   **Python:** including using API's to download information
+:   **ArcGIS / QGIS:** including integrating to Python / R scripts to perform geospatial analysis
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Awards
+------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* NCWP Most Valuable Goalie (2017, 2018, 2019)
+* Selected to compete with Team Canada at FISU in Naples, Italy, where I
+helped the team place 4th overall.
+* 2x nominated for the Frank Pindar Athlete of the Year (2017-2018,
+2018-2019)
+* Frank Pindar Athlete of the Year (2019-2020)
