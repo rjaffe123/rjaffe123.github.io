@@ -13,3 +13,9 @@ FISU, July 2019, Naples, Italy
 NCWP Finals, November 2019, Ottawa, Ontario, Canada
 <img src="/assets/img/picture_union.png" style="width:50%; border:5px solid; margin-right: 20px" align="center">
 The Goalie Union, August 2019, University of Toronto, ON, Canada
+
+|  FISU, July 2019, Naples, Italy    |
+|------------|
+| <img src="/assets/img/IMG_7452.JPG" style="width:50%; border:5px solid; margin-right: 20px" align="center">|
+
+
