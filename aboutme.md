@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+subtitle: <p>PDF version <a href="resumepdf.pdf"></a>.</p>
 ---
 
 Summary of Qualifications
