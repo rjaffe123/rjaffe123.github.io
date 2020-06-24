@@ -14,8 +14,8 @@ author: Rachael Jaffe
 navbar-links:
   Resume: "aboutme"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - My Git Hub: "https://github.com/rjaffe123"
+    - Datafest 2020: "https://rjaffe123.shinyapps.io/shiny_map_attempt/"
   Contact: "contact"
 
 # --- Logo --- #
