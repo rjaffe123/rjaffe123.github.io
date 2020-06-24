@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waterpolo
+title: Water polo
 ---
 
 I have been playing water polo since I was in 8th grade, and since then have gone on to play in university (#BleedBlue) as well as on the international scale (go Canada go!). 
