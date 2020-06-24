@@ -10,4 +10,4 @@ subtitle: Welcome to my personal website
 
 <p>Currently, I am a research assistant at the Dalla Lana School of Public Health and have been volunteering at St. Michael's Hospital doing statistical data analysis. </p> 
 
-|  <img src="/assets/img/IMG_1841.JPG" style="width:50%; height=50%; border:1px solid; margin-right: 10px" align="center">| <img src="/assets/img/5db68156-82ef-4628-adeb-63ae01bff1f0.JPG" style="width:100%; height= 100%; border:1px solid; margin-right: 10px" align="center">|
+|  <img src="/assets/img/IMG_1841.JPG" style="width:50%; height=50%; border:1px solid" align="center">| <img src="/assets/img/5db68156-82ef-4628-adeb-63ae01bff1f0.JPG" style="width:100%; height= 100%; border:1px solid; margin-right: 10px" align="center">|
