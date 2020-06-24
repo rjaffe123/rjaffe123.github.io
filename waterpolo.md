@@ -11,9 +11,5 @@ FISU, July 2019, Naples, Italy
 FISU, July 2019, Naples, Italy
 <img src="/assets/img/IMG_9662.JPG" style="width:50%; border:5px solid; margin-right: 20px" align="center">
 NCWP Finals, November 2019, Ottawa, Ontario, Canada
-
-`r vembedr::embed_url("https://youtu.be/ztfttnv0kfY")`
-A penalty shot save at FISU, July 2019, Naples, Italy
-
 <img src="/assets/img/picture_union.png" style="width:50%; border:5px solid; margin-right: 20px" align="center">
 The Goalie Union, August 2019, University of Toronto, ON, Canada
