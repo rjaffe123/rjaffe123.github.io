@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resumepdf.pdf)
+[Download this resume](resume_july.pdf)
 
 Summary of Qualifications
 -------------------------
@@ -75,3 +75,4 @@ helped the team place 4th overall.
 * 2x nominated for the Frank Pindar Athlete of the Year (2017-2018,
 2018-2019)
 * Frank Pindar Athlete of the Year (2019-2020)
+* Second overall at U of T datafest - [Project] (https://rjaffe123.shinyapps.io/shiny_map_attempt/) | [Details of competiton] (https://datafestuoft.github.io/)
