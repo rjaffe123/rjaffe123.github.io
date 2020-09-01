@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](sept_resume.pdf)
+[Download this resume](sept_resume.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
