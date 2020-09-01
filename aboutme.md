@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resume_july.pdf)
+[Download this resume](sept_resume.pdf)
 
 Summary of Qualifications
 -------------------------
