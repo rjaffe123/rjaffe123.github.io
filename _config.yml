@@ -14,8 +14,8 @@ author: Rachael Jaffe
 navbar-links:
   Resume: "aboutme"
   Projects:
-    - My Git Hub: "https://github.com/rjaffe123"
-    - Datafest 2020: "https://rjaffe123.shinyapps.io/shiny_map_attempt/"
+    - My Git Hub: "https://github.com/rjaffe123"{:target="_blank"}
+    - Datafest 2020: "https://rjaffe123.shinyapps.io/shiny_map_attempt/"{:target="_blank"}
   Water Polo: "waterpolo"
   Contact: "contact"
 
