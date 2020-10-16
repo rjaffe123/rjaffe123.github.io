@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](sept_resume.pdf){:target="_blank"}
+[Download this resume](resume_gradschool.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
@@ -65,6 +65,8 @@ Programming Languages
 :   **R:** including ShinyApps, creating this website, and well versed in data cleaning with Tidyverse
 :   **Python:** including using API's to download information
 :   **ArcGIS / QGIS:** including integrating to Python / R scripts to perform geospatial analysis
+:   **STATA:** High proficiency implementing various econometric methodology
+
 
 Awards
 ------
