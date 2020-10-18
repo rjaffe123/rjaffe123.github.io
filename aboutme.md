@@ -22,11 +22,19 @@ Education
     
 Experience
 ----------
+**Research Intern, Sept 2020 - current:**
+*Amsterdam Medical Center, Amsterdam, NL*
 
-**Research Assistant, Sept 2019 - current:**
+* Performing research in social epidemology examining the 'driveability' index.
+
+* Relevant work performed in ArcGIS, python, R.
+
+**Research Assistant, Sept 2019 - August 2020:**
 *Dalla Lana School of Public Health, Toronto, ON*
 
-* Currently performing research in spatial epidemiology examining greenness accessibility and distribution within Ontario
+* Contributed to a project in spatial epidemiology examining greenness accessibility and distribution within Ontario
+
+* Expected to produce a journal publication summarizing our results
 
 * Performing data analysis with Python, R, ArcGIS, SPSS
 
