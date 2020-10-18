@@ -4,11 +4,11 @@ title: Hi, I'm Rachael
 subtitle: Welcome to my personal website
 ---
 
-<p>I am a recent graduate of the University of Toronto, recieving a BSc in Global Health with minors in Economics and Statistics. </p>
+<p>I am a recent graduate of the University of Toronto (November 2020), recieving a BSc in Global Health with minors in Economics and Statistics. </p>
 
 <p>I love programming in R and enjoy coding ShinyApps! In my 'free' time, I am a competitive water polo goalie who has represented Canada on an international scale and recently recieved the Frank Pindar Female Athlete of the Year award at the University of Toronto. </p> 
 
-<p>Currently, I am a research assistant at the Dalla Lana School of Public Health and have been volunteering at St. Michael's Hospital doing statistical data analysis. </p> 
+<p>Currently, I working on a project at St. Michael's Hospital doing statistical data analysis. Please check out my resume for more information or contact me!  </p> 
 
 <p> This is me and my dog, Simba: </p>
 
