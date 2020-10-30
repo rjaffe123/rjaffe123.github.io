@@ -8,7 +8,7 @@ subtitle: Welcome to my personal website
 
 <p>I love programming in R and enjoy coding ShinyApps! In my 'free' time, I am a competitive water polo goalie who has represented Canada on an international scale and recently recieved the Frank Pindar Female Athlete of the Year award at the University of Toronto. </p> 
 
-<p>Currently, I working on a project at St. Michael's Hospital doing statistical data analysis. Please check out my resume for more information or contact me!  </p> 
+<p>Currently, I am working on a project at St. Michael's Hospital doing statistical data analysis. Please check out my resume for more information or contact me!  </p> 
 
 <p> This is me and my dog, Simba: </p>
 
