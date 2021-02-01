@@ -22,6 +22,15 @@ Education
     
 Experience
 ----------
+**Data Delivery Intern, Dec 2020 - current:**
+*Dashmote, Amsterdam, NL*
+
+* Hired to assist with the data pipeline to ensure accurate timing and execution of data visualization dashboard to client.
+
+* Tested over 10 hypotehsis to improve their ML algorithms in small, controlled experiments.
+
+* Completing relevant analysis work in Python.
+
 **Research Intern, Sept 2020 - current:**
 *Amsterdam Medical Center, Amsterdam, NL*
 
@@ -54,7 +63,7 @@ Experience
 
 * Developed marketing strategies for Instagram, Twitter, Facebook.
 
-**Peer Mentor, Sept 2018 - current:**
+**Peer Mentor, Sept 2018 - Dec 2020:**
 *Department of Statistical Sciences, Toronto, ON*
 
 * Mentored first year students who intend to study statistics to help them succeed in a new academic environment.
