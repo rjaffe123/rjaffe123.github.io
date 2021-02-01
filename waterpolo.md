@@ -25,7 +25,7 @@ I have been playing water polo since I was in 8th grade, and since then have gon
 |------------|
 | The Goalie Union, August 2019, University of Toronto, ON, Canada|
 
-| <img src="/assets/img/IMG_3771.JPG" style="width:80%; border:5px solid; margin-right: 20px" align="center">|
+| <img src="/assets/img/IMG_3771.jpg" style="width:80%; border:5px solid; margin-right: 20px" align="center">|
 |------------|
 | Teammates at Zv de Zaan|
 
