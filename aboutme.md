@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resume-gradschool.pdf){:target="_blank"}
+[Download this resume](resume_nov2021.pdf.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
