@@ -13,6 +13,11 @@ Summary of Qualifications
 
 Education
 ---------
+2021 - 2022
+:   **MSc, Health Services Research (Health Economics)**; University of
+    Toronto (Ontario, Canada)
+
+    *Institute of Health Policy, Management, and Evaluation*
 
 2016 - 2020
 :   **HBSc, Global Health**; University of
@@ -22,7 +27,7 @@ Education
     
 Experience
 ----------
-**Data Delivery Intern, Dec 2020 - current:**
+**Data Delivery Intern, Dec 2020 - May 2021:**
 *Dashmote, Amsterdam, NL*
 
 * Hired to assist with the data pipeline to ensure accurate timing and execution of data visualization dashboard to client.
@@ -31,7 +36,7 @@ Experience
 
 * Completing relevant analysis work in Python.
 
-**Research Intern, Sept 2020 - current:**
+**Research Intern, Sept 2020 - May 2021:**
 *Amsterdam Medical Center, Amsterdam, NL*
 
 * Performing research in social epidemology examining the 'driveability' index.
