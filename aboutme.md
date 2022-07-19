@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resume_june2021.pdf.pdf){:target="_blank"}
+[Download this resume](resume_june2021.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
@@ -18,6 +18,7 @@ Education
     Toronto (Ontario, Canada)
 
     *Institute of Health Policy, Management, and Evaluation*
+    
     *Thesis: Effect of Spinal Cord Injuries on Work and Earnings*
 
 2016 - 2020
