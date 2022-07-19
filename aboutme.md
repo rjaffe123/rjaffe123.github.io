@@ -2,12 +2,12 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resume_nov2021.pdf.pdf){:target="_blank"}
+[Download this resume](resume_june2021.pdf.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
-* Research experience in spatial and clinical epidemiology.
-* Proficient in Microsoft Office, Python, and R, ArcGIS
+* Research experience in clinical epidemiology, economic evaluations, applied econometrics.
+* Proficient in Python, and R, STATA
 * Team player, dedicated, and driven
 * 10+ years of playing a competitive sport
 
@@ -18,6 +18,7 @@ Education
     Toronto (Ontario, Canada)
 
     *Institute of Health Policy, Management, and Evaluation*
+    *Thesis: Effect of Spinal Cord Injuries on Work and Earnings*
 
 2016 - 2020
 :   **HBSc, Global Health**; University of
@@ -25,16 +26,17 @@ Education
 
     *Minor: Statistics, Economics*
     
-Experience
+Research Experience
 ----------
-**Data Delivery Intern, Dec 2020 - May 2021:**
-*Dashmote, Amsterdam, NL*
 
-* Hired to assist with the data pipeline to ensure accurate timing and execution of data visualization dashboard to client.
+**Research Assistant, May 2020 - current:**
+*St. Michael's Hospital, Toronto, ON*
 
-* Tested over 10 hypotehsis to improve their ML algorithms in small, controlled experiments.
+* Currently performing research in clinical epidemiology examining different cohorts of patients with spinal chord injuries
 
-* Completing relevant analysis work in Python.
+* Performing data analysis with R, SAS
+
+* Using statistical analysis techniques such as linear mixed modeling
 
 **Research Intern, Sept 2020 - May 2021:**
 *Amsterdam Medical Center, Amsterdam, NL*
@@ -52,14 +54,27 @@ Experience
 
 * Performing data analysis with Python, R, ArcGIS, SPSS
 
-**Research Assistant, May 2020 - current:**
-*St. Michael's Hospital, Toronto, ON*
+Work/Industry Experience
+----------
 
-* Currently performing research in clinical epidemiology examining different cohorts of patients with spinal chord injuries
+**Teaching Assistant, Jan 2022 - May 2022:**
+*Department of Statistical Sciences, Toronto, ON*
 
-* Performing data analysis with R, SAS
+* Led discussion groups weekly, assisted with office hours,and marked problem sets and final exams.
 
-* Using statistical analysis techniques such as linear mixed modeling
+**Teaching Assistant, Jan 2022 - May 2022:**
+*Department of Human Biology, Toronto, ON*
+
+* Guided students to complete tutorial exercises, assisted with office hours,and marked projects, case reports, and final exams.
+
+**Data Delivery Intern, Dec 2020 - May 2021:**
+*Dashmote, Amsterdam, NL*
+
+* Hired to assist with the data pipeline to ensure accurate timing and execution of data visualization dashboard to client.
+
+* Tested over 10 hypotehsis to improve their ML algorithms in small, controlled experiments.
+
+* Completing relevant analysis work in Python.
 
 **Business Analyst, Sept 2019 - Jan 2020:**
 *iMerciv, Toronto, ON*
@@ -76,7 +91,7 @@ Experience
 * Organized at least 1 social event per semester and connected students with resources to aid them
 in their transition to Toronto.
 
-* Currently aiding the new team of mentors on their transition to an online platform.
+* Aided the new team of mentors on their transition to an online platform.
 
 
 
@@ -85,7 +100,7 @@ Technical Experience
 
 Programming Languages
 :   **R:** including ShinyApps, creating this website, and well versed in data cleaning with Tidyverse
-:   **Python:** including using API's to download information
+:   **Python:** pandas/Matplotlib, including using API's to download information
 :   **ArcGIS / QGIS:** including integrating to Python / R scripts to perform geospatial analysis
 :   **STATA:** High proficiency implementing various econometric methodology
 
