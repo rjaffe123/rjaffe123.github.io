@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](resume_june2021.pdf){:target="_blank"}
+[Download this resume](github_page_resume.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
