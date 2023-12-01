@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 ---
-[Download this resume](github_page_resume.pdf){:target="_blank"}
+[Download this resume](jaffe,rachael_nov7_resume.pdf){:target="_blank"}
 
 Summary of Qualifications
 -------------------------
