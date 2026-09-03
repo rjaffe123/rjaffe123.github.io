@@ -27,7 +27,6 @@ My work spans:
 - Health outcomes research
 - Labor-market and productivity outcomes
 
-# Publications & Research
 # Publications
 
 1. **Traumatic cervical spinal cord injury and income and employment status**
