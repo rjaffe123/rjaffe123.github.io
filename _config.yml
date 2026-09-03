@@ -17,7 +17,7 @@ navbar-links:
     - My Git Hub: "https://github.com/rjaffe123"
     - Datafest 2020: "https://rjaffe123.shinyapps.io/shiny_map_attempt/"
     - TidyTuesdays: "https://rjaffe123.shinyapps.io/tidytuesdays/"
-  Water Polo: "waterpolo"
+  Research: "research"
   Contact: "contact"
 
 # --- Logo --- #
@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "rachael.jaffe@mail.utoronto.ca"
+  email: "rachael_jaffe@outlook.com"
   #facebook: deanattali
   github: rjaffe123
   #twitter: daattali
