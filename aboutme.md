@@ -2,117 +2,132 @@
 layout: page
 title: Resume
 ---
-[Download this resume](jaffe,rachael_nov7_resume.pdf){:target="_blank"}
+[Download this resume](rj_resume1 (4).pdf){:target="_blank"}
 
-Summary of Qualifications
--------------------------
-* Research experience in clinical epidemiology, economic evaluations, applied econometrics.
-* Proficient in Python, and R, STATA
-* Team player, dedicated, and driven
-* 10+ years of playing a competitive sport
+# Health Economist
 
-Education
----------
-2021 - 2022
-:   **MSc, Health Services Research (Health Economics)**; University of
-    Toronto (Ontario, Canada)
+## Rachael Jaffe, MSc
 
-    *Institute of Health Policy, Management, and Evaluation*
-    
-    *Thesis: Effect of Spinal Cord Injuries on Work and Earnings*
++1 647 646 7445  
+rjaffe16@gmail.com  
+rjaffe123.github.io  
+[Publication list]
 
-2016 - 2020
-:   **HBSc, Global Health**; University of
-    Toronto (Ontario, Canada)
+### Health Data Analyst with a specific focus in Health Economics
 
-    *Minor: Statistics, Economics*
-    
-Research Experience
-----------
+Highly skilled in R and SAS, Data Visualization, and 4+ years of experience in economic and statistical modelling in R and SAS. Graduated with a Master’s degree in Health Services Research from the University of Toronto.
 
-**Research Assistant, May 2020 - current:**
-*St. Michael's Hospital, Toronto, ON*
+---
 
-* Currently performing research in clinical epidemiology examining different cohorts of patients with spinal chord injuries
+## Experience
 
-* Performing data analysis with R, SAS
+### Consultant — Statlog
+**04/24 - present**  
+Montreal, QC
 
-* Using statistical analysis techniques such as linear mixed modeling
+#### Responsibilities
+- Performing RWE analysis studies across multiple data sources, including claims, registries, and clinical trial data.
+- Developing HTA services for regulatory submissions.
+- Developed an in-house R package, leveraging AI, for streamlined analytics.
 
-**Research Intern, Sept 2020 - May 2021:**
-*Amsterdam Medical Center, Amsterdam, NL*
+**Highlighted Skills:** health economics, RWE, HTA, claims data, R, SAS, SQL
 
-* Performing research in social epidemology examining the 'driveability' index.
+### Data Analyst — Asclepius Analytics
+**12/2023 - 04/2024**  
+Remote, (Montreal based)
 
-* Relevant work performed in ArcGIS, python, R.
+#### Responsibilities
+- Saved over 5+ hours a week by coding an automation process for weekly data audits to ensure data quality.
+- Analyzed and published research about RWE (treatment patterns, HCRU) using proprietary registry data and claims databases.
+- Developed an in-house R package for streamlined analytics.
 
-**Research Assistant, Sept 2019 - August 2020:**
-*Dalla Lana School of Public Health, Toronto, ON*
+**Highlighted Skills:** health economics, RWE, claims data, R, SAS
 
-* Contributed to a project in spatial epidemiology examining greenness accessibility and distribution within Ontario
+### Research Assistant — VHA Home Healthcare
+**06/2023 - 1/2024**  
+Toronto, ON — Part Time
 
-* Expected to produce a journal publication summarizing our results
+#### Responsibilities
+- Conducted data analysis for 4+ quantitative research projects using large administrative databases.
+- Research focuses on the dynamic labor economic outcomes of Personal Support Workers in Ontario.
+- Delivered insights that informed strategic costing decisions within the company and for health policy.
 
-* Performing data analysis with Python, R, ArcGIS, SPSS
+**Highlighted Skills:** survival analysis, longitudinal data, clustering methods, Shiny Apps (R), cost models
 
-Work/Industry Experience
-----------
+### Research and Data Analyst — Unity Health (St. Michael’s Hospital)
+**05/2020 - 05/2023**  
+Toronto, ON
 
-**Teaching Assistant, Jan 2022 - May 2022:**
-*Department of Statistical Sciences, Toronto, ON*
+#### Responsibilities
+- Completed 3+ peer-reviewed papers exploring the labor market outcomes of injuries and diseases of the head and spine.
+- Responsible for the analysis on projects that use large administrative databases (StatsCan, TQIP, ICES).
 
-* Led discussion groups weekly, assisted with office hours,and marked problem sets and final exams.
+**Highlighted Skills:** longitudinal models (panel data), diff-in-diff, mixed models (hierarchical), outcomes research
 
-**Teaching Assistant, Jan 2022 - May 2022:**
-*Department of Human Biology, Toronto, ON*
+---
 
-* Guided students to complete tutorial exercises, assisted with office hours,and marked projects, case reports, and final exams.
+## Education
 
-**Data Delivery Intern, Dec 2020 - May 2021:**
-*Dashmote, Amsterdam, NL*
+### Master of Health Services Research — University of Toronto
+**09/2021 - 11/2023**
+- Emphasis in Health Economics
+- Relevant Courses: Econometrics, Economic Evaluation (HTA), Health Systems & Policy
 
-* Hired to assist with the data pipeline to ensure accurate timing and execution of data visualization dashboard to client.
+### Honors Bachelor of Science — University of Toronto
+**09/2016 - 06/2020**
+- Major: Global Health, Minor: Statistics & Economics
+- GPA: 3.5 (High Distinction)
 
-* Tested over 10 hypotehsis to improve their ML algorithms in small, controlled experiments.
+---
 
-* Completing relevant analysis work in Python.
+## Recently Published
 
-**Business Analyst, Sept 2019 - Jan 2020:**
-*iMerciv, Toronto, ON*
+- R. Jaffe, P. Coyte, et al. *Traumatic cervical spinal cord injury and income and employment status.* JAMA Netw Open, 7(6), 2024.
+- R. Jaffe, A. Malhotra, et. al. *Unemployment and Personal Income Loss After Traumatic Brain Injury.* JAMA Surg. doi:10.1001/jamasurg.2024.4285
+- K. Zagrodney, R. Jaffe, et. al. *A time-to-event model of unplanned workplace absences for home care personal support workers from 2019-2020.* (To be published)
 
-* Created an interview script to interview over 200 people to determine a minimum viable market for their developing navigational app
+---
 
-* Developed marketing strategies for Instagram, Twitter, Facebook.
+## Teaching Experience
 
-**Peer Mentor, Sept 2018 - Dec 2020:**
-*Department of Statistical Sciences, Toronto, ON*
+### Teaching Assistant — Department of Statistical Sciences
+**09/2021 - 05/2023**  
+Toronto, ON — Univeristy of Toronto
 
-* Mentored first year students who intend to study statistics to help them succeed in a new academic environment.
+- A TA for ’Introduction to Statistics’ in Winter 2022, Fall 2022, and Winter 2023.
+- Led discussion/tutorial groups weekly, assisted with office hours, and marked problem sets and final exams.
 
-* Organized at least 1 social event per semester and connected students with resources to aid them
-in their transition to Toronto.
+### Teaching Assistant — Department of Human Biology
+**01/2022 - 05/2023**  
+Toronto, ON — Univeristy of Toronto
 
-* Aided the new team of mentors on their transition to an online platform.
+- A TA for ’Introduction to Global Health’ in Winter 2022 and Winter 2023.
+- Guided students to complete tutorial exercises, assisted with office hours, and marked projects, case reports, and final exams.
 
+---
 
+## Awards & Recognitions
 
-Technical Experience
---------------------
+### Canadian Institute of Health Research (CIHR)
+**Canada Graduate Scholarship-Master’s**  
+2022-2023
+- Value: $17,500 CAD over 1 year
 
-Programming Languages
-:   **R:** including ShinyApps, creating this website, and well versed in data cleaning with Tidyverse
-:   **Python:** pandas/Matplotlib, including using API's to download information
-:   **ArcGIS / QGIS:** including integrating to Python / R scripts to perform geospatial analysis
-:   **STATA:** High proficiency implementing various econometric methodology
+### Canadian Statistical Sciences Institute
+**(CANSSI) Ontario Data Access Grant 2022**
+- Value: $5,000 CAD
 
+### Canadian Women’s National Team Water Polo
+**2021–present**
+- Currently receiving support from AAP Sport Canada at the Senior level
 
-Awards
-------
+---
 
-* NCWP Most Valuable Goalie (2017, 2018, 2019)
-* Selected to compete with Team Canada at FISU in Naples, Italy, where I
-helped the team place 4th overall.
-* 2x nominated for the Frank Pindar Athlete of the Year (2017-2018,
-2018-2019)
-* Frank Pindar Athlete of the Year (2019-2020)
-* Second overall at U of T datafest - [Project](https://rjaffe123.shinyapps.io/shiny_map_attempt/){:target="_blank"} & [Details of competiton](https://datafestuoft.github.io/){:target="_blank"}
+## Skills
+
+- R, Rstudio, R Shiny
+- Python - Pandas, AWS, Matplotlib
+- SQL (Proc SQL), SAS, STATA
+- Tableau, Microsoft BI
+- Microsoft Office products
+- ArcGIS, GIS
