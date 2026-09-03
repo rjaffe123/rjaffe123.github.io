@@ -4,10 +4,12 @@ title: Hi, I'm Rachael
 subtitle: Welcome to my personal website
 ---
 
-<p>I have a graduate degree (MSc) in Health Services Research with an Emphasis in Health Economics at the Institute of Health Policy, Management, and Evaluation at the University of Toronto. 
+
+
+<p>I am a health data analyst with a specific focus in Health Economics. Highly skilled in R and SAS, Data Visualization, and 4+ years of experience in economic and statistical
+modelling in R and SAS. I graduated with a Master’s degreein Health Services Research from the University of Toronto.
 
 <p>I love programming in R and enjoy coding ShinyApps! I am especially interested in health technology assessment (economic evaluations) and applying economic framework to health policies. I have completed projects in biostatistics and epidemiology, specifically clinical epidemiology. 
-<p> In my 'free' time, I am a competitive water polo goalie who has represented Canada on an international scale and recently recieved the Frank Pindar Female Athlete of the Year award at the University of Toronto. </p> 
 
 <p> This is me and my dog, Simba: </p>
 
