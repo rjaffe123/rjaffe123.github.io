@@ -11,7 +11,7 @@ title: Resume
 +1 647 646 7445  
 rjaffe16@gmail.com  
 rjaffe123.github.io  
-[Publication list]
+[Publication list] (https://scholar.google.ca/citations?user=FuxjlpsAAAAJ&hl=en){:target="_blank"}
 
 ### Health Data Analyst with a specific focus in Health Economics
 
